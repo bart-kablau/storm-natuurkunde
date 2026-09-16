@@ -3516,5 +3516,7 @@ window.PODCASTS = [
   { emoji: "🧪", titel: "Een nieuw vak", sub: "Biologie, natuurkunde of scheikunde? En Röntgen.", file: "podcast-1.m4a" },
   { emoji: "🔎", titel: "Onderzoeken en waarnemen", sub: "De wetenschappelijke methode, veilig werken en de indicator.", file: "podcast-2.m4a" },
   { emoji: "📏", titel: "Grootheid, eenheid en omrekenen", sub: "De drie woorden, de setjes, en welke kant je op rekent.", file: "podcast-3.m4a" },
-  { emoji: "⚗️", titel: "Massa en volume", sub: "Aflezen, l × b × h en de onderdompelmethode.", file: "podcast-4.m4a" }
+  { emoji: "⚗️", titel: "Massa en volume", sub: "Aflezen, l × b × h en de onderdompelmethode.", file: "podcast-4.m4a" },
+  { emoji: "⚖️", titel: "Dichtheid", sub: "De massa van 1 cm³, de formule, en drijven of zinken.", file: "podcast-5.m4a" },
+  { emoji: "🎯", titel: "De instinkers-check", sub: "De tien denkfouten die op de toets het vaakst misgaan.", file: "podcast-6.m4a" }
 ];
