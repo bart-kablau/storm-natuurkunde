@@ -3486,5 +3486,5 @@ window.AANMOEDIGING = {
    bewerken: draai dat script opnieuw als er een aflevering bijkomt.
    ========================================================================= */
 window.PODCASTS = [
-  { emoji: "🔎", titel: "Onderzoeken en waarnemen", sub: "De wetenschappelijke methode, veilig werken en de indicator.", file: "audio/podcast-2.m4a" }
+  { emoji: "🔎", titel: "Onderzoeken en waarnemen", sub: "De wetenschappelijke methode, veilig werken en de indicator.", file: "podcast-2.m4a" }
 ];
