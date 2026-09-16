@@ -3507,3 +3507,14 @@ window.AANMOEDIGING = {
 window.PODCASTS = [
   { emoji: "🔎", titel: "Onderzoeken en waarnemen", sub: "De wetenschappelijke methode, veilig werken en de indicator.", file: "podcast-2.m4a" }
 ];
+
+/* =========================================================================
+   PODCASTS — gegenereerd door build/koppel-podcasts.mjs. Niet met de hand
+   bewerken: draai dat script opnieuw als er een aflevering bijkomt.
+   ========================================================================= */
+window.PODCASTS = [
+  { emoji: "🧪", titel: "Een nieuw vak", sub: "Biologie, natuurkunde of scheikunde? En Röntgen.", file: "podcast-1.m4a" },
+  { emoji: "🔎", titel: "Onderzoeken en waarnemen", sub: "De wetenschappelijke methode, veilig werken en de indicator.", file: "podcast-2.m4a" },
+  { emoji: "📏", titel: "Grootheid, eenheid en omrekenen", sub: "De drie woorden, de setjes, en welke kant je op rekent.", file: "podcast-3.m4a" },
+  { emoji: "⚗️", titel: "Massa en volume", sub: "Aflezen, l × b × h en de onderdompelmethode.", file: "podcast-4.m4a" }
+];
