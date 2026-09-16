@@ -1424,6 +1424,25 @@ window.LEERSTOF = [
           w: "dm³ is groot, cm³ is klein → keer 1000.",
           meer: "21 × 1000 = 21 000. Zo maak je van dm³ en kg een som die in g/cm³ uitkomt." },
 
+        { t: "mc", q: "<b>Extra.</b> Vroeger werd massa in <b>pond</b> gemeten. Wat was daarvan het grootste nadeel?",
+          o: ["Een pond was in elke plaats anders zwaar",
+              "Een pond was te zwaar om te tillen",
+              "Een pond bestond alleen in Nederland",
+              "Een pond kon je niet wegen"],
+          a: "Een pond was in elke plaats anders zwaar",
+          fout: {
+            "Een pond was te zwaar om te tillen": "een pond is ongeveer een halve kilo, dus dat viel wel mee. Het probleem was dat niemand precies wist hóéveel het was.",
+            "Een pond bestond alleen in Nederland": "het pond werd in veel landen gebruikt. Juist dát was het probleem: overal weer anders.",
+            "Een pond kon je niet wegen": "wegen kon prima. Maar in Amsterdam was een pond 494,090 g en in Den Haag 469,728 g, dus een pond kaas was niet overal evenveel."
+          },
+          w: "Elke plaats had zijn eigen pond, dus de maat lag niet vast.",
+          meer: "Voor handel en wetenschap is dat onbruikbaar. Daarom voerde Nederland in 1820 het <b>Metrieke Stelsel</b> in, met de kilogram als standaardmaat die overal even zwaar is." },
+
+        { t: "bouw", q: "<b>Extra.</b> Engelse maten: 1 <i>pound</i> (lb) = 16 <i>ounce</i> (oz). Op een pakje boter staat <b>4 oz</b>. Hoeveel <i>pound</i> is dat?<br><span style='font-size:.9rem;opacity:.75'>(alleen het getal, als kommagetal)</span>",
+          a: "0,25",
+          w: "4 : 16 = 0,25 pound, dus een kwart pond.",
+          meer: "Van een kleine eenheid (ounce) naar een grote (pound) deel je, dus het getal wordt kleiner. Precies dezelfde richtingsregel als bij gram en kilogram, alleen met 16 in plaats van 1000." },
+
         { t: "mc", q: "Een boomstam heeft een massa van 13,65 kg en een volume van 21 dm³. Wat doe je eerst om de dichtheid in g/cm³ te vinden?",
           o: ["Allebei omrekenen: 13,65 kg → 13 650 g en 21 dm³ → 21 000 cm³",
               "Meteen 13,65 delen door 21",
